@@ -1,37 +1,92 @@
-## Welcome to GitHub Pages
+# 读书笔记
 
-You can use the [editor on GitHub](https://github.com/CARLOSGP2021/ReadingList/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 小王子
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+说实话，《小王子》里面狐狸，玫瑰这些意向我即使是看了很多讲解视频，还是很难get到作者想要表达的含义，一本给大人看的童话，或许还是阅历尚浅吧。
 
-### Markdown
+## 活着
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## 月光落在左手上
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## 蛤蟆先生去看心理医生
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CARLOSGP2021/ReadingList/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## 山茶文具店
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+看完了《山茶文具店》，为不同类型的书信需求提供定制服务，给死去宠物的吊唁信，宣布离婚的公告信等等，不愧是职业代笔人，信纸，墨水，内容，每一样东西都十分考究，太宝贵了，我觉得这是一个治愈之处。
+
+此外，书中还描绘了镰仓的慢节奏生活，邻里之间的和睦生活，一同赏樱，旅游，聊天，enjoy，对于习惯了快节奏的城市生活的人来说，的确是另一个治愈之处。
+
+但就个人来说，看到后面就基本摸清了作者的习作思路，并且因为是疗愈系小说，故事情节上并不会跌宕起伏，所以看到后面略微有一点儿无聊和走神。但是不妨碍它成为我喜爱的小说，书中的生活方式和生活态度是我一直追求的。
+
+另外本书还有一本续集《闪闪发光的人生》，有机会会拜读。
+
+
+
+# 汇总
+
+- [x] 活着：余华
+- [x] 小王子
+- [x] 月光落在左手上：余秀华
+- [x] 蛤蟆先生去看心理医生：疗愈系
+- [ ] 82年出生的金智英：共鸣
+- [ ] What Happened to You：心理
+- [ ] 人生海海：麦家，真实
+- [ ] 秋园：纪实
+- [ ] 铸剑：鲁迅小说代表作
+- [ ] 渺小一生：四个男生闯纽约，伤感
+- [ ] 打开一颗心：做手术
+- [x] 山茶花文具店：治愈系，小镇生活
+- [ ] 闪闪发光的人生：与上同一作者，治愈系
+- [ ] 你知不知道我很担心你啊：治愈系，日本
+- [ ] 素食者：有深度，获奖多，文字好
+- [ ] 在抑郁这件事上，你并不孤独
+- [ ] 抱住棒棒的自己：生活中的小问题，小情绪
+- [ ] 说部之乱：脑洞大开，搞笑
+- [ ] 夜晚的潜水艇：奇幻
+- [ ] 新参者：东野圭吾，悬疑
+- [ ] 我与地坛：史铁生，文字非常美，推荐
+- [ ] 看见：柴静
+- [ ] 追风筝的人：经典
+- [ ] 雨季不再来：三毛
+- [ ] 撒哈拉的故事：三毛
+- [ ] 亲爱的三毛
+- [ ] 我们仨：杨绛
+- [ ] 这里是中国
+- [ ] 夜莺：二战，情感细腻，克里斯汀·汉娜
+- [ ] 米歇尔奥巴马自传：becoming成为
+- [ ] 天生有罪：自传，幽默
+- [ ] Gone girl/消失的爱人：情节设置
+- [ ] 无人生还：故事新奇，惊悚
+- [ ] Home Before Dark：悬疑
+- [ ] 一个叫欧维的男人决定去死
+- [ ] 百年孤独：国外名著
+- [ ] 霍乱时期的爱情
+- [ ] 消失的爱人：优秀的美国悬疑
+- [ ] 老妓抄：日本
+
+# 科幻
+
+- [ ] 三体系列：刘慈欣
+- [ ] The one：科幻
+- [ ] 克拉拉与太阳：科幻
+- [ ] Scythe：科幻
+- [ ] 火星救援：安迪·威尔
+- [ ] 挽救计划：安迪·威尔
+- [ ] 人生复本：平行世界，科幻
+
+# 城市系列
+
+- [ ] 上海 长恨歌 王安忆 
+- [ ] 广州 三家巷 欧阳山 
+- [ ] 青岛 山雨  王统照
+- [ ] 重庆 记忆之城 袁凌
+- [ ] 
+- [ ] 
